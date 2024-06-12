@@ -1,7 +1,7 @@
 {
     "projects": [
         {"image": "image10.jpg", "title": "Project 1", "description": "Web Design"},
-        {"image": "/static/project_images/bolt_logo_mockup.jpg", "title": "bolt drink logo design", "description": "Logo Design"},
+        {"image": "https://raw.githubusercontent.com/AATHILDUCKY/ui-ux-designer-portfolio-website-free-tamplate/main/static/project_images/bolt_logo_mockup.jpg", "title": "bolt drink logo design", "description": "Logo Design"},
         {"image": "image3.jpg", "title": "Project 3", "description": "Marketing & Advertising Design"},
         {"image": "image4.jpg", "title": "Project 4", "description": "Packaging Design"},
         {"image": "image5.jpg", "title": "Project 5", "description": "Publication Design"},
